@@ -71,7 +71,7 @@ Here you will find a student trying (<s>and, sometimes, failing</s>) to code and
 
 </div>
 
-### **Goal:**
+### **Goals:**
 
 ✨ Front-End Development and UX/UI Design.
 

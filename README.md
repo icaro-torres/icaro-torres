@@ -14,7 +14,7 @@ Here you will find a student trying (<s>and, sometimes, failing</s>) to code and
 - 🧠 I'm learning CSS & JavaScript.
 - 🤔 I'm looking for help with my projects and CSS (I'm still learning), so feel free to contribute with everything in this page
 - ⚡️ I started working in restaurants and  customer services, however, it was after meeting my girlfriend and understanding a little more about the tech world that I fell in love and decided to take a risk in a career transition.
-- 🔭 Exploring: Git, Cloud AWS & Linux.
+- 🔭 Exploring: Git, Hosting/SaaS & Linux.
 - 🌎 Languages: Portuguese (native) & English (learning).
 
 </div>

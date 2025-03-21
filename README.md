@@ -6,7 +6,7 @@
 
 <div align="justify">
 
-Here you will find a student trying (and, sometimes, <s>failing</s>) to code and creating solutions on my own, trying to explore a whole new world (the tech world) full of possibilities. Now studying on AWS re/Start while also improve me <b>front-end</b> skills.
+Here you will find a student trying (<s>and, sometimes, failing</s>) to code and creating solutions on my own, trying to explore a whole new world (the tech world) full of possibilities. Now studying on AWS re/Start while also improve me <b>front-end</b> skills.
 
 ## 💫 About Me:
 

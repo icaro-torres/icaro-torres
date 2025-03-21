@@ -23,7 +23,6 @@ Here you will find a student trying (<s>and, sometimes, failing</s>) to code and
 
 ### 🌐 Contact me:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?color=365536&style=flat-square&logo=linkedin&logoColor=white)
-![Behance](https://img.shields.io/badge/Behance-1769ff?color=365536&style=flat-square&logo=behance&logoColor=white)
 
 </div>
 

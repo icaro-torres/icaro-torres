@@ -75,6 +75,6 @@ Here you will find a student trying (<s>and, sometimes, failing</s>) to code and
 
 #### 💰 You can help me by Donating
 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?color=741B1B&style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/icarotorres)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?color=741B1B&style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/icarotorres)
 
 </div>

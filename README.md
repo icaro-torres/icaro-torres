@@ -60,7 +60,7 @@ Here you will find a student trying (<s>and, sometimes, failing</s>) to code and
 
 </div>
 
-### 📖 Learnin:
+### 📖 Learning:
 <div style="display: inline-block">
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?color=365536&style=flat-square&logo=amazon-aws&logoColor=white)

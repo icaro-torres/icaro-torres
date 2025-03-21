@@ -74,7 +74,7 @@ Here you will find a student trying (<s>and, sometimes, failing</s>) to code and
 
 ### **Goal:**
 
-✨ Front-End Development and UX/UI Desing.
+✨ Front-End Development and UX/UI Design.
 
 #### 💰 You can help me by Donating
 

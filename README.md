@@ -31,12 +31,9 @@ Here you will find a student trying (<s>and, sometimes, failing</s>) to code and
 
 <div align="center">
 
-### 📊 GitHub Stats:
+![Icaro Torres's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaro-torres&show_icons=false&theme=shadow_green&hide_border=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=icaro-torres&theme=shadow_green&hide_border=true)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=icaro-torres&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 <br>\
 <br>

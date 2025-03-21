@@ -22,7 +22,8 @@ Here you will find a student trying (<s>and, sometimes, failing</s>) to code and
 <div align="center">
 
 ### 🌐 Contact me:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?color=365536&style=for-the-badge&logo=linkedin&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?color=365536&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icarotorresm/) 
 
 </div>
 

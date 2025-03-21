@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&size=30&pause=1000&color=365536&center=true&vCenter=true&width=500&lines=Hey!+I'm+Icaro+Torres%2C+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&size=30&pause=1000&color=741B1B&center=true&vCenter=true&width=500&lines=Hey!+I'm+Icaro+Torres%2C+welcome!)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +23,7 @@ Here you will find a student trying (<s>and, sometimes, failing</s>) to code and
 
 ### 🌐 Contact me:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?color=365536&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icarotorresm/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?color=741B1B&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icarotorresm/) 
 
 </div>
 
@@ -32,9 +32,9 @@ Here you will find a student trying (<s>and, sometimes, failing</s>) to code and
 
 <div align="center">
 
-![Icaro Torres's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaro-torres&show_icons=false&theme=shadow_green&hide_border=true)
+![Icaro Torres's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaro-torres&show_icons=false&theme=shadow_red&hide_border=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=icaro-torres&theme=shadow_green&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=icaro-torres&theme=shadow_red&hide_border=true)
 
 <br>\
 <br>
@@ -42,30 +42,30 @@ Here you will find a student trying (<s>and, sometimes, failing</s>) to code and
 ### 💻 Programming:
 <div style="display: inline-block">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?color=365536&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?color=365536&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?color=365536&style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?color=741B1B&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?color=741B1B&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?color=741B1B&style=for-the-badge&logo=javascript&logoColor=white)
 
 </div>
 
 ### 🎨 Design:
 <div style="display: inline-block">
 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?color=365536&style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?color=365536&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?color=365536&style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?color=365536&style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?color=741B1B&style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?color=741B1B&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?color=741B1B&style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?color=741B1B&style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ### 📖 Learning:
 <div style="display: inline-block">
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?color=365536&style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?color=365536&style=for-the-badge&logo=markdown&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?color=365536&style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?color=365536&style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?color=365536&style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?color=741B1B&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?color=741B1B&style=for-the-badge&logo=markdown&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?color=741B1B&style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?color=741B1B&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?color=741B1B&style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -75,6 +75,6 @@ Here you will find a student trying (<s>and, sometimes, failing</s>) to code and
 
 #### 💰 You can help me by Donating
 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?color=365536&style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/icarotorres)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?color=741B1B&style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/icarotorres)
 
 </div>

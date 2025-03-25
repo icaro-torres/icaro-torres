@@ -6,14 +6,14 @@
 
 <div align="justify">
 
-Here you will find a student trying (<s>and, sometimes, failing</s>) to code and creating solutions on my own, trying to explore a whole new world (the tech world) full of possibilities. Now studying on AWS re/Start while also improve me <b>front-end</b> skills.
+Here you'll find a student trying (<s>and, sometimes, failing</s>) to code and create solutions by my own. I'm to explore a whole new world full of possibilities. Now I'm studying to be cerfied by AWS Cloud Practitioner while also improve my <b>front-end</b> skills.
+>**Fun fact**: I started working in restaurants and  customer services, however, it was after meeting my girlfriend and understanding a little more about the tech world that I fell in love and decided to take a risk in a career transition. Also, I'm a transgender man.
 
 ## 💫 About Me:
 
 - 🌍 Based in Brazil, studying to be a Front-End Developer.
 - 🧠 I'm learning CSS & JavaScript.
-- 🤔 I'm looking for help with my projects and CSS (I'm still learning), so feel free to contribute with everything in this page
-- ⚡️ I started working in restaurants and  customer services, however, it was after meeting my girlfriend and understanding a little more about the tech world that I fell in love and decided to take a risk in a career transition.
+- 🤔 I'm looking for help with my projects and CSS (I'm still learning), so feel free to contribute with everything in this page.
 - 🔭 Exploring: Git, Hosting/SaaS & Linux.
 - 🌎 Languages: Portuguese (native) & English (learning).
 

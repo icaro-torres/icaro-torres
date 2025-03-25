@@ -1,8 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&size=30&pause=1000&color=741B1B&center=true&vCenter=true&width=500&lines=Hey!+I'm+Ícaro+Torres%2C+welcome!)](https://git.io/typing-svg)
+![capa animada](https://capsule-render.vercel.app/api?type=waving&height=250&color=741B1B&text=Welcome!&reversal=false&animation=fadeIn&textBg=false&fontSize=70)
 
 </div>
+
+# 👋 Hey! I'm Ícaro Torres.
 
 <div align="justify">
 

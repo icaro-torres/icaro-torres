@@ -23,7 +23,7 @@ Here you'll find a student trying (<s>and, sometimes, failing</s>) to code and c
 
 <div align="center">
 
-### 🌐 Contact me:
+### 🌐 Contact me!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?color=741B1B&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icarotorresm/) 
 

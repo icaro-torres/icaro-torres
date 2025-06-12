@@ -73,7 +73,7 @@ Here you'll find a student trying (<s>and, sometimes, failing</s>) to code and c
 
 ### **Goals:**
 
-✨ Front-End Development and UX/UI Design.
+✨ Full Stack Development.
 
 #### 💰 You can help me by Donating
 

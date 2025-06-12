@@ -8,8 +8,8 @@
 
 <div align="justify">
 
-Here you'll find a student trying (<s>and, sometimes, failing</s>) to code and create solutions by my own. I'm to explore a whole new world full of possibilities. Now I'm studying to be cerfied by AWS Cloud Practitioner while also improve my <b>front-end</b> skills.
->**Fun fact**: I started working in restaurants and  customer services, however, it was after meeting my girlfriend and understanding a little more about the tech world that I fell in love and decided to take a risk in a career transition. Also, I'm a transgender man.
+Here you'll find a student trying (<s>and, sometimes, failing</s>) to code and create solutions by my own. I'm trying to explore a whole new world full of possibilities. Now I'm studying to be cerfied by AWS while also improve my <b>full stack</b> skills.
+>**Fun fact**: I started working in restaurants and customer services, however, it was after meeting a friend and understanding a little more about the tech world that I fell in love and decided to take a risk in a career transition. Also, I'm a transgender man.
 
 ## 💫 About Me:
 

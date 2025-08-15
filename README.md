@@ -8,6 +8,14 @@
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icaro-torres/icaro-torres/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icaro-torres/icaro-torres/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/icaro-torres/icaro-torres/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+
 ## O que estou estudando atualmente:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?color=2C3323&style=flat-square&logo=python&logoColor=white)

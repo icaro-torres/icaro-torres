@@ -1,10 +1,13 @@
 <div align="center">
 
-# 👋 Prazer, sou o [Ícaro](https://www.linkedin.com/in/icarotorresm/)! 🌿
+# 👋 Prazer, sou o [Ícaro](https://www.linkedin.com/in/icarotorresm/)! 🍵
+**Desenvolvedor Back-End | DevOps | Cloud Computing (AWS Certified)**
 
 </div>
 
-⌨️ Descobri a tecnologia durante meus estudos e me apaixonei pelo mundo do desenvolvimento e DevOps. Como homem trans, minha jornada também é sobre coragem, autenticidade e superação de desafios, e levo essa determinação para cada linha de código que escrevo. Comecei a dar meus primeiros passos com programação e hoje busco constantemente aprendizado, explorando automação, infraestrutura e práticas ágeis. Como estudante e entusiasta da comunidade Dev, sonho em um dia compartilhar conhecimento, inspirar outros a acreditar no próprio potencial e transformar ideias em soluções reais e impactantes. 🚀
+Descobri a tecnologia durante meus estudos e me apaixonei pelo mundo do desenvolvimento e DevOps. Como homem trans, minha jornada também é sobre coragem, autenticidade e superação de desafios, e levo essa determinação para cada linha de código que escrevo. Comecei a dar meus primeiros passos com programação e hoje busco constantemente aprendizado, explorando automação, infraestrutura e práticas ágeis. Como estudante e entusiasta da comunidade Dev, sonho em um dia compartilhar conhecimento, inspirar outros a acreditar no próprio potencial e transformar ideias em soluções reais e impactantes. 🚀
+
+***Atualmente, estou focado em*** aprofundar meus conhecimentos para a certificação **AWS Certified Solutions Architect – Associate** e explorando **Java**.
 
 <br>
 
@@ -16,35 +19,24 @@
 
 <br>
 
-## O que estou estudando atualmente:
+## Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3670A0?color=2C3323&style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?color=2C3323&style=flat-square&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?color=2C3323&style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?color=2C3323&style=flat-square&logo=terraform&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?color=2C3323&style=flat-square&logo=javascript&logoColor=white)
+|   Back-end   |   Cloud   |   DevOps |   Build Tools   |   IDE's   |   Outras Ferramentas   |
+|   -------------   |   -------------   |   -------------   |   -------------   |   -------------   |   -------------   |
+|   ![Python](https://img.shields.io/badge/python-3670A0?color=black&style=for-the-badge&logo=python&logoColor=white)   <br>   ![Flask](https://img.shields.io/badge/flask-%23000.svg?color=black&style=for-the-badge&logo=flask&logoColor=white)   <br>   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?color=black&style=for-the-badge&logo=openjdk&logoColor=white)   |   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?color=black&style=for-the-badge&logo=amazon-aws&logoColor=white)   |   ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?color=black&style=for-the-badge&logo=terraform&logoColor=white)   <br>   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?color=black&style=for-the-badge&logo=docker&logoColor=white)   <br>   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?color=black&style=for-the-badge&logo=githubactions&logoColor=white)   <br>   ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?color=black&style=for-the-badge&logo=ansible&logoColor=white)   |   ![Apache Maven](https://img.shields.io/badge/Maven-C71A36?color=black&style=for-the-badge&logo=Apache%20Maven&logoColor=white)   |   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?color=black&style=for-the-badge&logo=visual-studio-code&logoColor=white)   <br>   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?color=black&style=for-the-badge&logo=intellij-idea&logoColor=white)   |   ![Linux](https://img.shields.io/badge/Linux-FCC624?color=black&style=for-the-badge&logo=linux&logoColor=white)   <br>   ![Git](https://img.shields.io/badge/git-%23F05033.svg?color=black&style=for-the-badge&logo=git&logoColor=white)   <br>   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?color=black&style=for-the-badge&logo=github&logoColor=white)   |
 
 <br>
 
-## 🛠 O que eu uso:
+## Onde me encontrar 💭
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?color=2C3323&style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?color=2C3323&style=flat-square&logo=css3&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?color=2C3323&style=flat-square&logo=adobe&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?color=2C3323&style=flat-square&logo=figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?color=2C3323&style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?color=2C3323&style=flat-square&logo=linux&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?color=2C3323&style=flat-square&logo=notion&logoColor=white)
-![GitHub](https://img.shields.io/badge/Github-%23121011.svg?color=2C3323&style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?color=2C3323&style=flat-square&logo=git&logoColor=white)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?color=black&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/701640886504652831)
+  [![Gmail](https://img.shields.io/badge/Email-D14836?color=black&style=for-the-badge&logo=gmail&logoColor=white)](mailto:icarotorresmendes@gmail.com) 
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?color=black&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icarotorresm/)
 
-<br>
+</div>
 
-## Onde me encontrar:
-
-[![Discord](https://img.shields.io/badge/discord-%235865F2.svg?color=2C3323&style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/701640886504652831)
-[![Gmail](https://img.shields.io/badge/email-D14836?color=2C3323&style=flat-square&logo=gmail&logoColor=white)](mailto:icarotorresmendes@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?color=2C3323&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icarotorresm/)
+---
 
 <br>
 

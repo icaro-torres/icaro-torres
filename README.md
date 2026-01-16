@@ -35,12 +35,3 @@ Descobri a tecnologia durante meus estudos e me apaixonei pelo mundo do desenvol
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?color=black&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icarotorresm/)
 
 </div>
-
----
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icaro-torres&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_green&locale=en&hide_border=true&icon_color=525942&layout=compact&title_color=525942&bg_color=00000000" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icaro-torres&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_green&hide_border=true&title_color=525942&bg_color=00000000" height="150" alt="languages graph"  />
-</div>
